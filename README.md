@@ -2,11 +2,14 @@
 
 Neumorphism is an interesting component, giving a real popup effect on a website, giving a minimal look.  
 Light Mode and Dark Mode both are included in this version. 
-Here are some examples.
-![Light Mode Neumorphism](/img/lightmode.png "LightMode")  
-![Dark Mode Neumorphism](/img/darkmode.png "DarkMode")  
+Here are some examples.  
+  
+  
+<img src="/img/lightmode.png" alt="Light Mode" style="height: 219px; width:400px;"/>  
 
-
+<img src="/img/darkmode.png" alt="Dark Mode" style="height: 219px; width:400px;"/>  
+  
+ 
 ## How to Use
 
 Clone this repository, add *Neumorphism.css* to your *css* folder and *Neumorphism.js* to your *js* folder or use CDN Links.  
