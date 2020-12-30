@@ -1,0 +1,48 @@
+$light-grey: #f2f2f2;
+$white: #ffffff;
+$black: #000000;
+$dark-grey: #383838;
+
+.light{
+    background-color: $light-grey;
+}
+
+.dark{
+    background-color: $dark-grey;
+}
+
+.neumorphism-outer{
+    border: none !important;
+    box-shadow: 5px 5px 5px rgba($color: $black, $alpha: 0.2),
+                -5px -5px 5px rgba($color: $white, $alpha: 1.0);
+    border-radius: 20px !important;
+    text-align: center;
+    padding: 2em;
+}
+
+.neumorphism-inner{
+    border: none !important;
+    box-shadow: inset 5px 5px 5px rgba($color: $black, $alpha: 0.2),
+                inset -5px -5px 5px rgba($color: $white, $alpha: 1.0);
+    border-radius: 20px !important;
+    text-align: center;
+    padding: 2em;
+}
+
+.neumorphism-outer-dark{
+    border: none !important;
+    box-shadow: 5px 5px 5px rgba($color: $black, $alpha: 0.9),
+                -5px -5px 5px rgba($color: $white, $alpha: 0.15);
+    border-radius: 20px !important;
+    text-align: center;
+    padding: 2em;
+}
+
+.neumorphism-inner-dark{
+    border: none !important;
+    box-shadow: inset 5px 5px 5px rgba($color: $black, $alpha: 0.9),
+                inset -5px -5px 5px rgba($color: $white, $alpha: 0.15);
+    border-radius: 20px !important;
+    text-align: center;
+    padding: 2em;
+}

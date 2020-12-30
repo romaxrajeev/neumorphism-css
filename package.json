@@ -1,0 +1,21 @@
+{
+  "name": "neumorphism-css",
+  "version": "0.1.0",
+  "description": "A Neumorphism UI Library for easy use in any websites.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romeo611199/neumorphism-css.git"
+  },
+  "keywords": [
+    "Neumorphism"
+  ],
+  "author": "Romax Rajeev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/romeo611199/neumorphism-css/issues"
+  },
+  "homepage": "https://github.com/romeo611199/neumorphism-css#readme"
+}
