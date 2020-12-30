@@ -3,6 +3,9 @@
 Neumorphism is an interesting component, giving a real popup effect on a website, giving a minimal look.  
 Light Mode and Dark Mode both are included in this version. 
 Here are some examples.
+![Light Mode Neumorphism](/img/lightmode.png "LightMode")  
+![Dark Mode Neumorphism](/img/darkmode.png "DarkMode")  
+
 
 ## How to Use
 
