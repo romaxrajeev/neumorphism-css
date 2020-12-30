@@ -8,10 +8,11 @@ Here are some examples.
 
 Clone this repository, add *Neumorphism.css* to your *css* folder and *Neumorphism.js* to your *js* folder or use CDN Links.  
 CDN for CSS File:  
-> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/romeo611199/neumorphism-css/src/css/neumorphism.css">
+> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/romeo611199/neumorphism-css/src/css/neumorphism.css">  
+>
 CDN for JS Files:  
 > <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>  
->
+>  
 > <script src="https://cdn.jsdelivr.net/gh/romeo611199/neumorphism-css/src/js/neumorphism.js"></script>  
 
 
@@ -19,9 +20,12 @@ CDN for JS Files:
 
 For Light Mode, add *light* class to your parent tag. This will add a light grey background color (#f2f2f2)    
 > <body class="light">  
+>  
+  
 For Dark Mode, add *dark* class to your parent tag. This will add a dark grey background color (#383838)  
 > <body class="dark">  
-
+>  
+  
 
 To apply Neumorphism to an element, specify the type of Neumorphism by adding classes as:  
 > <div class="neumorphism-outer"></div>  
