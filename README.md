@@ -58,4 +58,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## License
-[MIT](https://github.com/romeo611199/neumorphism-css/blob/master/LICENSE)
+Check out the [MIT License](https://github.com/romeo611199/neumorphism-css/blob/master/LICENSE) in the LICENSE file.
